@@ -4,9 +4,9 @@ import Lakme from '../../assets/lakme.png'
 const ProductWeUse = () => {
   return (
     <div>
-        <div className="bg-pink3 py-12 sm:py-32">
+        <div className="bg-pink3 py-8 sm:py-32">
       <div className="mx-auto max-w-7xl px-6 lg:px-8">
-        <h2 className="text-center text-lg font-semibold leading-8 text-gray-900 capitalize lg:text-[40px] pt-10 sm:text-[25px]">
+        <h2 className="text-center text-lg font-semibold leading-8 pb-14 text-gray-900 capitalize lg:text-[40px]  sm:text-[25px]">
           The <span className='text-rose-600 '>products</span> we use
         </h2>
         <div className="mx-auto mt-10 grid max-w-lg grid-cols-4 items-center gap-x-8 gap-y-10 sm:max-w-xl sm:grid-cols-6 sm:gap-x-10 lg:mx-0 lg:max-w-none lg:grid-cols-5">

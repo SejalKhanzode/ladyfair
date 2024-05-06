@@ -60,7 +60,7 @@ const Navbar = () => {
             <div className="flex items-center gap-4">
               <div className="sm:flex sm:gap-4">
                 <Link
-                  className=" px-5 py-2.5 text-[1.2rem] font-bold shadow  hover:text-[#FF006B] "
+                  className=" px-5 py-2.5 text-[1.2rem] font-bold shadow rounded-md bg-pink1 text-white"
                   to="/signup"
                 >
                   Login

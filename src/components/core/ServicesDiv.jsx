@@ -8,7 +8,7 @@ const ServicesDiv = () => {
       <section>
         <div className="mx-auto max-w-screen-xl px-4 py-8 sm:px-6 sm:py-12 lg:px-8 ">
           <header className="">
-            <h2 className="font-bold text-gray-900 sm:text-3xl capitalize lg:text-[40px]  text-center">
+            <h2 className="font-bold text-gray-900 sm:text-3xl capitalize lg:text-[40px]  text-center pb-8">
               Services we <span className="text-rose-600 ">offer</span> 
             </h2>
 
@@ -111,7 +111,7 @@ const ServicesDiv = () => {
 
                 <div className="relative bg-white pt-3">
                   <h3 className="text-lg font-bold px-3 text-gray-700 group-hover:underline group-hover:underline-offset-4">
-                    Basic Tee
+                    Tattoo
                   </h3>
 
                   <p className="mt-2 pb-3">
