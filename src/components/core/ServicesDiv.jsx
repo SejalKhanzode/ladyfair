@@ -45,8 +45,9 @@ const ServicesDiv = () => {
                       Rs: 999/
                     </span>
                   </p>
-                  <button className="bg-pink1 w-full p-3 m-3 rounded-lg text-white font-semibold">Book Appointment</button>
-                </div>
+                  <button className="bg-pink1 w-full p-3 m-3 text-white font-semibold">Book Appointment</button>
+              
+                    </div>
               </Link>
             </li>
 
@@ -71,9 +72,10 @@ const ServicesDiv = () => {
                       Rs: 1500/
                     </span>
                   </p>
+                  <button className="bg-pink1 w-full p-3 m-3 text-white font-semibold">Book Appointment</button>
+              
                 </div>
-                <button className="bg-pink1 w-full p-3 m-3 rounded-lg text-white font-semibold">Book Appointment</button>
-              </Link>
+                </Link>
             </li>
 
             <li>
@@ -96,9 +98,11 @@ const ServicesDiv = () => {
                       Rs: 1999/
                     </span>
                   </p>
+
+                  <button className="bg-pink1 w-full p-3 m-3 text-white font-semibold">Book Appointment</button>
+            
                 </div>
-                <button className="bg-pink1 w-full p-3 m-3 rounded-lg text-white font-semibold">Book Appointment</button>
-              </Link>
+               </Link>
             </li>
 
             <li>
@@ -122,9 +126,10 @@ const ServicesDiv = () => {
                       Rs: 899/
                     </span>
                   </p>
+                  <button className="bg-pink1 w-full p-3 m-3 text-white font-semibold">Book Appointment</button>
+           
                 </div>
-                <button className="bg-pink1 w-full p-3 m-3 rounded-lg text-white font-semibold">Book Appointment</button>
-              </Link>
+                  </Link>
             </li>
           </ul>
 
